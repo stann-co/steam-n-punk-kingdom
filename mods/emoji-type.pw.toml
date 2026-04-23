@@ -1,0 +1,13 @@
+name = "Emoji Type (Fabric/Quilt/NeoForge)"
+filename = "emoji-type-2.3.0-1.21.3-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a0bcaaf4271b96368379f0f3d618b1347fc5f2e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5850229
+project-id = 574752
