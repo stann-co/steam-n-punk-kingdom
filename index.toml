@@ -101,6 +101,11 @@ hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "a989a69146d64786ed1a8234e6333e19c96636a905e4867a3566138e976d40dc"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "186cff70b1116e9b16394ec0751c7d4b64e7e3ce6108119bc1dbe0761a8081f8"
 metafile = true
@@ -156,6 +161,11 @@ hash = "3c13beafeb69d23d2a43805cfa3d79b7e458cfb8f9ce603075b84d95da630d4b"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f4778cef252c7032b8d42ddf79c9e671ddcca0a5878a46607346c30fef21c8e2"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
 metafile = true
@@ -208,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
