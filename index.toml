@@ -11,6 +11,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/createbetterfps.pw.toml"
 hash = "28e720db43464fe32b9ce591fb02b824ebf691c578fb694f87a98421d3207022"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "d65a013fc6ad1b6e1470e05c9efe7825e988b47415a033fef6d9b91474b488cb"
 metafile = true
 
 [[files]]
