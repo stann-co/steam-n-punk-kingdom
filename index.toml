@@ -6,6 +6,10 @@ hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
 
 [[files]]
+file = "jvm arguments.txt"
+hash = "ec8e3547be41a8ebbda4014c31c5dd6aff6fdd582585a68dae451742ddb3bad2"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -147,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3e12e291f59845d26d24f57f81ee16b56afb486ae532ec3f00f5deda6a93dc6f"
+hash = "3937618f06648f5ad0c7be0195b5fa75bf6d7464ee133bd59bb5b13753090de7"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "69495e979400e63b317b80a71bdd9276929d503b12fa0e73bc668c474d5dbc4c"
+hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
 metafile = true
 
 [[files]]
@@ -183,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
 metafile = true
 
 [[files]]
@@ -213,11 +222,6 @@ metafile = true
 [[files]]
 file = "mods/mousetweaks-x-accessories-fix.pw.toml"
 hash = "b4aae12cec211a99aefde3c74531f61c762f3de8cf2f9f1716e34f63e0a30a10"
-metafile = true
-
-[[files]]
-file = "mods/numismatics.pw.toml"
-hash = "f0a5a2604c8d733222a25e9c19dcf443d853864ed76a388b26982be97fdea71f"
 metafile = true
 
 [[files]]
