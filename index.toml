@@ -45,6 +45,11 @@ hash = "a567cd22b6f35cb5f71b4aa394c01d341ce01274c9b6256cbcc6f48a450a2ba3"
 metafile = true
 
 [[files]]
+file = "mods/configurable.pw.toml"
+hash = "dc6adf5804d410e8941312e75b8dce731d66aa00255f5b4ed48113da03c97730"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -227,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/mousetweaks-x-accessories-fix.pw.toml"
 hash = "b4aae12cec211a99aefde3c74531f61c762f3de8cf2f9f1716e34f63e0a30a10"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "f07c5c8fcafbe85fe9729f6d2258eb426b41f8faad07dce29e7790abbd76edd3"
 metafile = true
 
 [[files]]
