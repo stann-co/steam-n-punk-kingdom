@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -161,7 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
+hash = "0e7ca8cb57c5c68c0f348903430e221677a0ca5392e7ac24e759e8983883fc23"
+metafile = true
+
+[[files]]
+file = "mods/farmersdelight-extended.pw.toml"
+hash = "1f0eddb549f522aed1df3233672b552d2484b161ee95cbb88edce1c648c0c449"
 metafile = true
 
 [[files]]
