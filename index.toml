@@ -35,6 +35,11 @@ hash = "0236c16fae038f834245ad6c9b05f385f75db2e82630bdbf71a4b1a2e6def57d"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "a3178253377879d78b45f0438308a630f41ed53888a01d2106a3368a095166c7"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "89865794f0fbe908f5b5b1c2628df8f9c0aa715313d305f08f922cf7b5c9be9d"
 metafile = true
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "49185aecb9ea9176fb371ff175e7c052970855b62387fe766c252636c3989cbf"
+hash = "3597e7757cec1cc73dfa2c125980f26380ab65ca2572ea790dfdb7cfbed9cc9d"
 metafile = true
 
 [[files]]
@@ -182,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
@@ -222,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
 
 [[files]]
