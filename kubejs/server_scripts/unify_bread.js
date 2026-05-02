@@ -28,8 +28,4 @@ ServerEvents.recipes(event => {
     // 3. Remove recipes 
     event.remove({ output: 'farmersdelight_extended:bread_slice' })
     event.remove({ output: 'farmersdelight_extended:toast' }) })
-    
-JEIEvents.hideItems(event => {
-  event.hide('farmersdelight_extended:bread_slice')
-  event.hide('farmersdelight_extended:toast')
-})
+
