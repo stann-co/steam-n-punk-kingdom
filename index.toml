@@ -15,7 +15,7 @@ hash = "ec8e3547be41a8ebbda4014c31c5dd6aff6fdd582585a68dae451742ddb3bad2"
 
 [[files]]
 file = "kubejs/client_scripts/unify_bread.js"
-hash = "270c1baab1f1727e29372f6f878fcb014ef8d405922a4607ac420ae1198b26d7"
+hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
 [[files]]
 file = "kubejs/server_scripts/unify_bread.js"
