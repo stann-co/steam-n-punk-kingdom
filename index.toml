@@ -14,6 +14,10 @@ file = "jvm arguments.txt"
 hash = "ec8e3547be41a8ebbda4014c31c5dd6aff6fdd582585a68dae451742ddb3bad2"
 
 [[files]]
+file = "kubejs/server_scripts/unify_bread.js"
+hash = "980ffc4c838f145908a35b56e993d4c2f5f34761dbd69347789780b86547f079"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -26,6 +30,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
@@ -244,6 +253,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
@@ -269,8 +283,18 @@ hash = "b4aae12cec211a99aefde3c74531f61c762f3de8cf2f9f1716e34f63e0a30a10"
 metafile = true
 
 [[files]]
+file = "mods/moyai.pw.toml"
+hash = "8801eedcfc4b401f8b70bfdd3b5ef633f4c8fadd7de68144eda4fa5bfa3b01b9"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "54d61dcf34eec5aa12eea8f71a0531d64174697e36a6572adecd8dada43e747f"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
@@ -286,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "804736be3ded2a6f89f44522b88d82636209ed203c234ea34b6d6ffdd9ecee54"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "75ff68dd0bfb30f2ff97f170ffbb74d5b6aaa791416c4a0559d09ac8778561ba"
 metafile = true
 
 [[files]]
