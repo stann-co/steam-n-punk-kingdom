@@ -6,8 +6,8 @@ hash = "753adc976b00bdb2f4e060e18700d778d0938c76805c46747acccb139fdc7025"
 metafile = true
 
 [[files]]
-file = "config/Unconfirmed 506320.crdownload"
-hash = "d4bf42e410fa3654fa50681e70719747d42066f34cac8ad83f6ef7d963972a9f"
+file = "config/DistantHorizons.toml"
+hash = "3a4acbf0e5f8091d6e3b7c966b7783fbcd640e7328f13f58c2152faf95a3218c"
 
 [[files]]
 file = "jvm arguments.txt"
@@ -15,7 +15,7 @@ hash = "ec8e3547be41a8ebbda4014c31c5dd6aff6fdd582585a68dae451742ddb3bad2"
 
 [[files]]
 file = "kubejs/server_scripts/unify_bread.js"
-hash = "980ffc4c838f145908a35b56e993d4c2f5f34761dbd69347789780b86547f079"
+hash = "8efeeb1aaacb9d688a8d72688ed6eed59305a470104e35993d6b2a813512d36b"
 
 [[files]]
 file = "mods/accessories.pw.toml"
