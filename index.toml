@@ -23,7 +23,7 @@ hash = "52e2d7c41505d6af950490d8ee915a680e71d13607d648b36398998e1b48bd92"
 
 [[files]]
 file = "kubejs/client_scripts/unusual_furniture.js"
-hash = "acae62d6af8d57b241fac431f735bc8209405a5b25e9075a44d8b41c1bf45d29"
+hash = "93c345a3a3469e5c3848b0eff9afe42eda06bc179da50f8ae6f78308d2db7bdb"
 
 [[files]]
 file = "kubejs/server_scripts/unify_bread.js"
@@ -35,7 +35,7 @@ hash = "19380c2cf11759ec0d6c16cc2b390e544a312926df42133f1d55d270eafdb089"
 
 [[files]]
 file = "kubejs/server_scripts/unusual_furniture.js"
-hash = "64e50dfcd83fe782d483354ef9db981171ace02202841e2c3adfa774d73e1709"
+hash = "4568cd2ace2d05418956a0b4b89c94cc82ed93305b33d5c8ab86f0644d46395c"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -400,11 +400,6 @@ metafile = true
 [[files]]
 file = "mods/unusual-furniture.pw.toml"
 hash = "22c18b47dd1bbe8b81f8c33c11c839842a4b5ba9cbe1e482e21f18e87df4995c"
-metafile = true
-
-[[files]]
-file = "mods/visual-workbench.pw.toml"
-hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
 metafile = true
 
 [[files]]
