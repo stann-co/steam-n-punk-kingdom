@@ -1,0 +1,13 @@
+name = "Lever durgster"
+filename = "analogleverdrag-0.5.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "564b52161555b47292a628e30b62f37cd49de600"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8034625
+project-id = 1530992

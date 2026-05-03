@@ -38,6 +38,11 @@ file = "kubejs/server_scripts/unusual_furniture.js"
 hash = "4568cd2ace2d05418956a0b4b89c94cc82ed93305b33d5c8ab86f0644d46395c"
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "d50226c94a37c71af5c57af00c5ab3c1713b66c32573b0ef3d72464f0943a2b2"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -50,6 +55,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
@@ -159,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-prismatic-shine.pw.toml"
-hash = "10775cfd96ec76fb575527194beeef4b4493297c9b498066ae04aae9c50c4860"
+hash = "1c1803c7ce39a0abdcd38b836c364a1f1b92a41a0022f5598492a6eb68997664"
 metafile = true
 
 [[files]]
@@ -238,6 +248,11 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/gears-n-kinetics.pw.toml"
+hash = "ce35bf5e845d46c98e22131cb8e04e147aafe62d3492da97a1a3090621af0281"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
@@ -250,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "0eef279850c173527c29e0d550aa4a6a616caf031056ac85e69ced91e0cc8ce1"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
@@ -283,6 +303,21 @@ hash = "aef79b9deb5d4f2921ef8e4d58df69d8b71eaaded52149ed6aca41f0cf225be9"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture-create-sable-aeronautics.pw.toml"
+hash = "2a7d765d8c716c80958262f5e8d11ce1fde064d878e1bd60d13e627408049924"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "343c951f648e4d30f10c85f277c3d57c5492ba7d6f9820c8dfe764812fbeb2fd"
+metafile = true
+
+[[files]]
+file = "mods/lever-durgster.pw.toml"
+hash = "247e4cab135287811be1049f715df14b1a5613fc3562fbdd0a7c66521121ba67"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3b41e84ca0e5bd93f05eddcdff3f47b38e8bb9863b9bbb4bf05991098487a8a5"
 metafile = true
@@ -293,8 +328,13 @@ hash = "89ffd1297ebc4b0ac4773a5b9483f765c5cfe3fa034767da61129820c47de965"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "1b78273918bdbfe66d38f35b6ec2fbaa7e862fb9dca67cc99a725df768365e96"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
-hash = "c05fa3fa9bc5700104d928b616b15e70d441085dd060c6501122747dc3805de1"
+hash = "4f4f7e84f1efb76998b0f41bf01799ae9182e180a1343a20f8c2c2325672c9ed"
 metafile = true
 
 [[files]]
