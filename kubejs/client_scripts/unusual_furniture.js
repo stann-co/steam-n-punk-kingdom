@@ -5,4 +5,5 @@ KubeJEIEvents.subtypes(event => {
 	event.hide('unusual_furniture:water_plants')
 	event.hide('unusual_furniture:pebble_bag')
 	event.hide('unusual_furniture:decorative_toolbox')
+	event.hide('unusual_furniture:mystery_crate')
 })
