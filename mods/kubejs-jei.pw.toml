@@ -1,6 +1,6 @@
 name = "KubeJS JEI"
 filename = "kubejei-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

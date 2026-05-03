@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-prismatic-shine.pw.toml"
-hash = "1c1803c7ce39a0abdcd38b836c364a1f1b92a41a0022f5598492a6eb68997664"
+hash = "9aeb086806fcd75365957c2d169642b83a8c44050f43cf8750e2970c084b1ea5"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "8da46348495ee032dbac80374ff4691351e41dfee9957dc27811e0957fe13e4e"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-jei.pw.toml"
-hash = "cbecb2098745dc8b09376d06837cfd23aa2bb0053eda8d5f475a09a61ca9222d"
+hash = "fc6c23a31d842b77e44ed331dc415f84e77b29898b73a050bba8c8dcf39e90c3"
 metafile = true
 
 [[files]]
