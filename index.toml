@@ -38,6 +38,11 @@ file = "kubejs/server_scripts/unusual_furniture.js"
 hash = "4568cd2ace2d05418956a0b4b89c94cc82ed93305b33d5c8ab86f0644d46395c"
 
 [[files]]
+file = "mods/abyssal-decor.pw.toml"
+hash = "d50226c94a37c71af5c57af00c5ab3c1713b66c32573b0ef3d72464f0943a2b2"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
