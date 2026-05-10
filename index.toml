@@ -10,10 +10,6 @@ file = "config/DistantHorizons.toml"
 hash = "3a4acbf0e5f8091d6e3b7c966b7783fbcd640e7328f13f58c2152faf95a3218c"
 
 [[files]]
-file = "jvm arguments.txt"
-hash = "ec8e3547be41a8ebbda4014c31c5dd6aff6fdd582585a68dae451742ddb3bad2"
-
-[[files]]
 file = "kubejs/client_scripts/unify_bread.js"
 hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
