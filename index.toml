@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-optical.pw.toml"
-hash = "9b074ca770bc3aa90375fb6f8e6ac73aa0c31d3e8bf7ff32da13278ddab8ae5c"
+hash = "c42f5f98141fa759c4da854b0f11562d0907ccf130a7e522b04d5b574d191087"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
+hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/enders-delight.pw.toml"
-hash = "d9974ce7736002c8a696af3c754fbc2702ba8751dcb2eed6d6ca8a824ec2f7eb"
+hash = "28ac34eafc267a4bde8c694bc23c66f0aa0837156bd808ee41023a63bdc68488"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c4f12c7bf746bdf25719995f9da8626187e9f879a20e29a9b4854e2066ad20bc"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
