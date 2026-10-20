@@ -1,13 +1,13 @@
 name = "MouseTweaks x Accessories Fix"
-filename = "mousetweaks-x-accessories-fix-1.3.0.jar"
+filename = "mousetweaks-x-accessories-fix-1.4.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/bFBJU91s/versions/NF6alSLv/mousetweaks-x-accessories-fix-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/bFBJU91s/versions/znY5vYq7/mousetweaks-x-accessories-fix-1.4.0.jar"
 hash-format = "sha512"
-hash = "b2a4ac7f324d48f1e5de667fd1517911693b59482b42692c7c4da015c6919cce6a208a9363b41b66f8a3d583fe0911ab526385b11cd9216344554e6bae355222"
+hash = "63a179595cb38598968fe1f34680af08560f731d877ce6cb67abec8a3dab91eb34a118208caab28a592a90e144319036f26d83648d5773bbdd5e78142775385f"
 
 [update]
 [update.modrinth]
 mod-id = "bFBJU91s"
-version = "NF6alSLv"
+version = "znY5vYq7"
