@@ -10,6 +10,10 @@ file = "config/DistantHorizons.toml"
 hash = "3a4acbf0e5f8091d6e3b7c966b7783fbcd640e7328f13f58c2152faf95a3218c"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "823b6c5a852f82191e54637dcc67eacb80fdeb1742eb7b733d9fb68f4828d22a"
+
+[[files]]
 file = "kubejs/client_scripts/unify_bread.js"
 hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
@@ -90,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
+hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
 metafile = true
 
 [[files]]
