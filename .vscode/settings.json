@@ -1,0 +1,6 @@
+{
+  // Put the pack folder (where packwiz.exe lives) on PATH for terminals opened in this workspace
+  "terminal.integrated.env.windows": {
+    "PATH": "${workspaceFolder};${env:PATH}"
+  }
+}
