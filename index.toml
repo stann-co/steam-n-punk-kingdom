@@ -43,11 +43,11 @@ hash = "5a91390b0ed32f85526bde2faa15c758cc3bd53c48efe4fd5ca4efa3b13b0656"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minceraft.png"
-hash = "56a406a81f7f62a76654aee0f3650dd2af9813ae805206cdceb3d01c0904a7d4"
+hash = "c9c196d3b55a6d0084da8d2f326d149033af4dc7395e884c034694d95d6ee865"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
-hash = "70ce03e3d9fc998bf1a71f5ee25c6f00ffc5e33e3d8572dd97ef459b0c277c89"
+hash = "301e96b4fea43708d2423e1cbb68d78466ad6c1f77292c8547f0cfd17b087159"
 
 [[files]]
 file = "kubejs/client_scripts/unify_bread.js"
