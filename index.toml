@@ -18,6 +18,10 @@ hash = "e471368ddedc6cf683b5a6ce2ac93dea8a3be4b80cb04609cece33e9cf19041b"
 preserve = true
 
 [[files]]
+file = "kubejs/assets/minecraft/texts/splashes.txt"
+hash = "d7502466fc29162398526f6aba03fb50b3930a12ba72894586dd9957e0b6dd87"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "78d81a411b23597cca255a249c04e16af1bf145c6e1f3fcb702a69c2e6fed536"
 
