@@ -3,11 +3,11 @@ filename = "letsdo-furniture-neoforge-1.1.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c81278d7abd8adb4abc46b612a0d27569f41ee24"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/FxbGZtS6/letsdo-furniture-neoforge-1.1.10.jar"
+hash-format = "sha512"
+hash = "8dee0bb12bdccef1dbabff2c3106abfaedd7ae4f469e89a24f99327c3ac366c1f104ea3a8971be5f3929bd97246b00634abb156c6d41d54c00aaca6ac34a1a32"
 
 [update]
-[update.curseforge]
-file-id = 9203784
-project-id = 1062363
+[update.modrinth]
+mod-id = "3JQDJrYW"
+version = "FxbGZtS6"
