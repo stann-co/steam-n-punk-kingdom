@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
-metafile = true
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "3a4acbf0e5f8091d6e3b7c966b7783fbcd640e7328f13f58c2152faf95a3218c"
 
@@ -530,4 +525,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "7513bf8234406adf6dc90f9ba76a83929cfa154971489f76a392508c2f846dcc"
 metafile = true
