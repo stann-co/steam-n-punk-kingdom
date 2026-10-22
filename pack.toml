@@ -1,12 +1,12 @@
 name = "steam-n-punk-kingdom"
 author = "STANN.co"
-version = "1.0.1"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "91730ddd0af9629dcffb67058b02890a7064693f3ec300587131154a5572e4e5"
+hash = "32fe1a940949733072b7f4f6b7955b9a418deacff1b6bc691b1f47ab6741b4f0"
 
 [versions]
 minecraft = "1.21.1"

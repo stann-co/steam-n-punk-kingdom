@@ -18,6 +18,38 @@ hash = "e471368ddedc6cf683b5a6ce2ac93dea8a3be4b80cb04609cece33e9cf19041b"
 preserve = true
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "78d81a411b23597cca255a249c04e16af1bf145c6e1f3fcb702a69c2e6fed536"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "f1ca4c776b51fed0919baa7d6d470da0b5051afa4b0c9dd283acbcd03c857f9e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "75c408d4189192860502eeb31b4bc75377de0e2855ee816b7a10324b0b0cd9cc"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "1093cffca9757af1a578c3c9781868f6a2347f364a09e7b1b4db3054563db900"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "e7bf7592dbaa1deb44e96e15f9dd0164628390c2b5ce07ede135cfab1b3061ab"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "5a91390b0ed32f85526bde2faa15c758cc3bd53c48efe4fd5ca4efa3b13b0656"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/minceraft.png"
+hash = "56a406a81f7f62a76654aee0f3650dd2af9813ae805206cdceb3d01c0904a7d4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "70ce03e3d9fc998bf1a71f5ee25c6f00ffc5e33e3d8572dd97ef459b0c277c89"
+
+[[files]]
 file = "kubejs/client_scripts/unify_bread.js"
 hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
