@@ -53,6 +53,11 @@ hash = "6ff0459e53f8bc6d77862c242f96b321db7d99cc27398ced9cf7c94a39814ad0"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics-hot-air-fix.pw.toml"
+hash = "55c8aefec97caf982304d74c1e7b5e0bc45b34da5be45afe9a1c9e23cfd144b3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -188,8 +193,13 @@ hash = "d5a7d90bfc3de3ff873283df9b4ba54290df4949a2a2eefddc1ea34df985a3d1"
 metafile = true
 
 [[files]]
+file = "mods/create-storage-neo-forge.pw.toml"
+hash = "0f40851b49337592c7759ef4e73fc5bb7a8dc57def04c4e818cdc1f88fb6a837"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -255,11 +265,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/ferritecore.pw.toml"
-hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
