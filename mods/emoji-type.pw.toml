@@ -1,6 +1,6 @@
 name = "Emoji Type (Fabric/Quilt/NeoForge)"
 filename = "emoji-type-2.3.0-1.21.3-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

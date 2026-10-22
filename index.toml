@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/emoji-type.pw.toml"
-hash = "186cff70b1116e9b16394ec0751c7d4b64e7e3ce6108119bc1dbe0761a8081f8"
+hash = "a37773d9a6bbffc40467ca222e335bf198ce29d06c14fbfb94754333def44eef"
 metafile = true
 
 [[files]]
