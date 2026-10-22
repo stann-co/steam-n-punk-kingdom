@@ -1,0 +1,2 @@
+version:3955
+resourcePacks:["vanilla","mod_resources","file/Simple Grass Flowers v2.0.0.zip","file/Fancy Crops v1.3.zip","file/Better-Leaves-9.6.zip","file/Low Fire.zip","file/FreshAnimations_v1.11.1_1.20+.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip"]

@@ -9,6 +9,10 @@ file = "config/defaultoptions/keybindings.txt"
 hash = "823b6c5a852f82191e54637dcc67eacb80fdeb1742eb7b733d9fb68f4828d22a"
 
 [[files]]
+file = "config/defaultoptions/options.txt"
+hash = "f11c360ffe2e8fdbd6ba175f50a8c13613395dc174e36ea5380c40229d4cd6d2"
+
+[[files]]
 file = "kubejs/client_scripts/unify_bread.js"
 hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
