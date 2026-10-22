@@ -42,6 +42,10 @@ file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_5.png"
 hash = "5a91390b0ed32f85526bde2faa15c758cc3bd53c48efe4fd5ca4efa3b13b0656"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/gui/title/edition.png"
+hash = "ff237e92a1de1428b1368d960bc2ce98195821af0d9838853344180bf29c45ed"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/minceraft.png"
 hash = "c9c196d3b55a6d0084da8d2f326d149033af4dc7395e884c034694d95d6ee865"
 
