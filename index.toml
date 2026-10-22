@@ -19,7 +19,7 @@ preserve = true
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "d7502466fc29162398526f6aba03fb50b3930a12ba72894586dd9957e0b6dd87"
+hash = "7de056d22fed5ddb16b49ed829df7989ebd34ef29da69e7d9e406f081d2b8622"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
