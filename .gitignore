@@ -1,0 +1,6 @@
+# Local packwiz binary (download: https://nightly.link/packwiz/packwiz/workflows/go/main)
+/packwiz.exe
+/packwiz
+
+# Local test exports (packwiz modrinth export)
+*.mrpack

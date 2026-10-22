@@ -1,0 +1,4 @@
+.vscode/
+
+# Source/working files (logo projects etc.) - kept in git, not shipped to players
+source/
