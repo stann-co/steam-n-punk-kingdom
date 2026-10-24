@@ -18,6 +18,10 @@ hash = "e471368ddedc6cf683b5a6ce2ac93dea8a3be4b80cb04609cece33e9cf19041b"
 preserve = true
 
 [[files]]
+file = "config/serilum/configurabledespawntimer.json"
+hash = "90e15750c86b02abca71dbf515910c1adccc0309fc47d90eb73e696c9a299000"
+
+[[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "7de056d22fed5ddb16b49ed829df7989ebd34ef29da69e7d9e406f081d2b8622"
 
@@ -58,6 +62,10 @@ file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "301e96b4fea43708d2423e1cbb68d78466ad6c1f77292c8547f0cfd17b087159"
 
 [[files]]
+file = "kubejs/client_scripts/create_storage.js"
+hash = "7ee84feb79cad2ce8369a9c353e3ec0d0218bda85162cebcf5a00d79264d563f"
+
+[[files]]
 file = "kubejs/client_scripts/unify_bread.js"
 hash = "62a3b0ee40f345a8f043c0f67b15a018eef1725a739453a125cf45b8227641af"
 
@@ -68,6 +76,10 @@ hash = "52e2d7c41505d6af950490d8ee915a680e71d13607d648b36398998e1b48bd92"
 [[files]]
 file = "kubejs/client_scripts/unusual_furniture.js"
 hash = "93c345a3a3469e5c3848b0eff9afe42eda06bc179da50f8ae6f78308d2db7bdb"
+
+[[files]]
+file = "kubejs/server_scripts/create_storage.js"
+hash = "72ab88796f47de60376c8dfe9ab775b0ccb2f00ed581a21e95bba5113f4a81c5"
 
 [[files]]
 file = "kubejs/server_scripts/unify_bread.js"
@@ -162,8 +174,18 @@ hash = "5674504844fe82a6b2713fe3b8235febb46284ee1c8dc2f519287edba9adaf34"
 metafile = true
 
 [[files]]
+file = "mods/configurable-despawn-timer.pw.toml"
+hash = "caac7a210e1ee8aa62329fccb3e7631608573bd3e83590a54b357d0b444bd204"
+metafile = true
+
+[[files]]
 file = "mods/configurable.pw.toml"
 hash = "dcd40eb17aefa2335e200f44114967260f5b5bc3dbae4e426c19dabcc89a6019"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
@@ -489,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "fadb5c9cfe145e51992894fe57209fc8f1696ef892ee9702a24c6205f042e9b2"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
