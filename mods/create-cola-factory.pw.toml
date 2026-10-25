@@ -1,0 +1,13 @@
+name = "Create: Cola Factory | Updated"
+filename = "create_cola_factory-1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t3qEwmQm/versions/ga0Rg0Hy/create_cola_factory-1.4-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "b6eb48bc439be434593d73c9aa7a1c9e820615d9e77f792fd7c939fb1a056d0ecd6dc8880095312f11ef9442bc6a36f07d71c1360307680c22d11829e6ea45fd"
+
+[update]
+[update.modrinth]
+mod-id = "t3qEwmQm"
+version = "ga0Rg0Hy"

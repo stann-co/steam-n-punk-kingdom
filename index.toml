@@ -27,7 +27,7 @@ hash = "90e15750c86b02abca71dbf515910c1adccc0309fc47d90eb73e696c9a299000"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "a774f3de88a130f7e7f27e38ed22c33e60a9f071b5e91baf047c40016b54caa7"
+hash = "dddf5a650e87492109b6ae9459a4f55d2a67c22fef60619994ab8746115ecb45"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -220,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
+metafile = true
+
+[[files]]
+file = "mods/create-cola-factory.pw.toml"
+hash = "c4cc108385afabaacbbb536361a3bddda348f45434ba87fd17827023a51d228c"
 metafile = true
 
 [[files]]
