@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "3a4acbf0e5f8091d6e3b7c966b7783fbcd640e7328f13f58c2152faf95a3218c"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "29b6080502671157734c738735092612437c319caedc892be38b8038df65e37e"
+
+[[files]]
 file = "config/defaultoptions/keybindings.txt"
 hash = "823b6c5a852f82191e54637dcc67eacb80fdeb1742eb7b733d9fb68f4828d22a"
 
@@ -23,7 +27,7 @@ hash = "90e15750c86b02abca71dbf515910c1adccc0309fc47d90eb73e696c9a299000"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "a774f3de88a130f7e7f27e38ed22c33e60a9f071b5e91baf047c40016b54caa7"
+hash = "dddf5a650e87492109b6ae9459a4f55d2a67c22fef60619994ab8746115ecb45"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -216,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "3752b1dcdfebbb1e79c97c847095153155d64636576a9c0ac11ffa6506c62922"
+metafile = true
+
+[[files]]
+file = "mods/create-cola-factory.pw.toml"
+hash = "c4cc108385afabaacbbb536361a3bddda348f45434ba87fd17827023a51d228c"
 metafile = true
 
 [[files]]
