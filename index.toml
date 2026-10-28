@@ -207,7 +207,7 @@ hash = "72ab88796f47de60376c8dfe9ab775b0ccb2f00ed581a21e95bba5113f4a81c5"
 
 [[files]]
 file = "kubejs/server_scripts/item_swaps.js"
-hash = "7bf679b2cbab3827094c33d19fd3c1d1f7ecf5b312e38c49f9e0c8fe8ad03909"
+hash = "bef2e7c8dd5558a7ac2c96f5597157d4589518333db42082157a2b09122e248c"
 
 [[files]]
 file = "kubejs/server_scripts/unify_abyssal_metals.js"

@@ -51,14 +51,16 @@ EntityEvents.spawned('minecraft:item', event => {
 	if (replacement) event.entity.setItem(Item.of(replacement, stack.count))
 })
 
-// anything that never touches the ground (wandering trader, chests, old stacks) is swapped
-// once it lands in a player's inventory
-PlayerEvents.inventoryChanged(event => {
-	if (!ITEM_SWAPS[event.item.id]) return
-	const inventory = event.player.inventory
-	for (let i = 0; i < inventory.getContainerSize(); i++) {
-		const stack = inventory.getItem(i)
+// anything that never touches the ground (/give, wandering trader, chests, old stacks) is swapped in
+// players' inventories, checked once a second. This runs on the player tick rather than in
+// PlayerEvents.inventoryChanged: editing slots from inside that event duplicated the replacement.
+PlayerEvents.tick(event => {
+	const player = event.player
+	if (player.tickCount % 20 != 0) return
+	const inventory = player.inventory
+	for (let i = 0; i < inventory.slots; i++) {
+		const stack = inventory.getStackInSlot(i)
 		const replacement = ITEM_SWAPS[stack.id]
-		if (replacement) inventory.setItem(i, Item.of(replacement, stack.count))
+		if (replacement) inventory.setStackInSlot(i, Item.of(replacement, stack.count))
 	}
 })
