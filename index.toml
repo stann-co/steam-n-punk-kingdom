@@ -139,7 +139,7 @@ hash = "e73adade7bd41800be30508be11806d78b42ae878f0009e2a2221f50fbab5495"
 
 [[files]]
 file = "kubejs/client_scripts/cola_factory.js"
-hash = "c399da9afe013436e50f5740a575483aec86a97cdb9fc03f79f3999dc3e23b1f"
+hash = "41d1dbd1235950f5166f7b86af7db1c3e8772a94f829bb39384abdc62539c745"
 
 [[files]]
 file = "kubejs/client_scripts/create_storage.js"
@@ -199,7 +199,7 @@ hash = "7f4ea154725ac833bbfe81834f01487a1075388baed8177f395dd9e9bc770cb5"
 
 [[files]]
 file = "kubejs/server_scripts/cola_factory.js"
-hash = "ce96ab5fbce737cb7b824a96541639d04f972a3b1041d6cd5d82bdfa7e72c617"
+hash = "2bf8fef5a1896d14d35326413cf9ce0175ccbe2c23c17aacb5234cbd98364cd6"
 
 [[files]]
 file = "kubejs/server_scripts/create_storage.js"

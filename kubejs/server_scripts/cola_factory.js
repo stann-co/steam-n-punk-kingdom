@@ -29,4 +29,12 @@ ServerEvents.recipes(event => {
 			results: [{ id: line.soda, amount: 1000 }]
 		})
 	})
+
+	// the mod's own Soda Zero Syrup bucket draining recipe names a fluid that doesn't exist
+	// ("coca_cola_zero_syrup") and fails to load, so it's added here with the right one
+	event.custom({
+		type: 'create:emptying',
+		ingredients: [{ item: 'create_cola_factory:coca_cola_syrup_zero_bucket' }],
+		results: [{ id: 'minecraft:bucket' }, { id: 'create_cola_factory:coca_cola_syrup_zero', amount: 1000 }]
+	})
 })
