@@ -26,6 +26,58 @@ file = "config/serilum/configurabledespawntimer.json"
 hash = "90e15750c86b02abca71dbf515910c1adccc0309fc47d90eb73e696c9a299000"
 
 [[files]]
+file = "kubejs/assets/create_cola_factory/lang/en_us.json"
+hash = "e11569b7b4c2ea941978988bfc0ac6ea1ef29b17311113b5ff06d5f74b3db55d"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/artificialsweetener.png"
+hash = "9aec01b7e865b043dbdfa869cda76b8e7b88d899de9b21f67c0d7c39ea2d7668"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/can.png"
+hash = "86738064a8714e55f028c7f599b1d5411f624a2707b2eed7f92ad840cec49cc5"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/cocacola_can.png"
+hash = "ce1d655c8786332fafe6e3571e71ed71d1716ab06ba1ea58b6aa10712926e1b4"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/cocacolalabel.png"
+hash = "37246c588baaf2cf51b41c9203a07a57a7126689db2527030cb21bea1e708f66"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/cocacolazerocan.png"
+hash = "f1d4be9aa3f3e6ac2a42f9c27eace806f758302f47220c7f79331c46ed5154eb"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/cocacolazerolabel.png"
+hash = "e1b5392ed34330ee7b6c4fc7c0559c8cd1cf5c6adec35885719a09f7ac7d767d"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/emptycocacolaglassbottle.png"
+hash = "6c9a01f95225fad9d837fb248f0f1ac89e3b99a715d11c83d37ac994d930631f"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/emptycocacolazeroglassbottle.png"
+hash = "653e492593c0aa663943f6649c2d911194e6cc93a86ff4143fb3db637dd759aa"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/fullcocacolaglassbottle.png"
+hash = "c01cc5e4190b8b85f13b88db49c2577e92d64d05c429e08724c2d9d4d18fddfb"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/fullcocacolazeroglassbottle.png"
+hash = "44358f1b3f96c11098d3df6dd547b58fca443830430c4a84ac610fdeb2423658"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/halffullcocacolaglassbottle.png"
+hash = "32b1f6b142b42df43ce37bbfa9feae1c884df17d4aaef87cad06d51867043c5d"
+
+[[files]]
+file = "kubejs/assets/create_cola_factory/textures/item/halffullcocacolazeroglassbottle.png"
+hash = "bacc7b6198cd82c8142527a351f6cacdd3e9379c291d93a0229b9c5e33b819b2"
+
+[[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
 hash = "dddf5a650e87492109b6ae9459a4f55d2a67c22fef60619994ab8746115ecb45"
 
@@ -66,6 +118,10 @@ file = "kubejs/assets/minecraft/textures/gui/title/minecraft.png"
 hash = "301e96b4fea43708d2423e1cbb68d78466ad6c1f77292c8547f0cfd17b087159"
 
 [[files]]
+file = "kubejs/client_scripts/abyssal_decor.js"
+hash = "e73adade7bd41800be30508be11806d78b42ae878f0009e2a2221f50fbab5495"
+
+[[files]]
 file = "kubejs/client_scripts/create_storage.js"
 hash = "7ee84feb79cad2ce8369a9c353e3ec0d0218bda85162cebcf5a00d79264d563f"
 
@@ -78,8 +134,32 @@ file = "kubejs/client_scripts/unify_dough.js"
 hash = "52e2d7c41505d6af950490d8ee915a680e71d13607d648b36398998e1b48bd92"
 
 [[files]]
+file = "kubejs/client_scripts/unify_pearls.js"
+hash = "dd63e7b3bd71fa05d00ba3adb6465a39de8f8b1ef33137e7a557a0f2d8e4d4f9"
+
+[[files]]
 file = "kubejs/client_scripts/unusual_furniture.js"
-hash = "93c345a3a3469e5c3848b0eff9afe42eda06bc179da50f8ae6f78308d2db7bdb"
+hash = "a72a2ddf142bb9fd0fb58056e4239717fc6bbefc75ab51763bcd7c4e799824fc"
+
+[[files]]
+file = "kubejs/data/abyssal_decor/loot_table/blocks/telescope_bottom.json"
+hash = "0e8ac86be7c1a1af82371590295c1095a22e0521982e70926e6fe726f3f4d736"
+
+[[files]]
+file = "kubejs/data/abyssal_decor/loot_table/blocks/telescope_top.json"
+hash = "58af4ed8fe46f26e4172d1dcabf76fd0104396aa7d8256c25e45ba1221b7da65"
+
+[[files]]
+file = "kubejs/data/hybrid_aquatic/loot_table/blocks/black_pearl_block.json"
+hash = "9fe03a03523e9a67a3792dc6f4f01a8c37a3b3935da353336b67723eabad7981"
+
+[[files]]
+file = "kubejs/data/hybrid_aquatic/loot_table/blocks/pearl_block.json"
+hash = "5ec1bf73172e863325c0649189550faf7937715221eefb9653122fe8913d62f4"
+
+[[files]]
+file = "kubejs/server_scripts/abyssal_decor.js"
+hash = "af6d571a232129fe30a2172049cc18aadd2c1f605d386b3ed36e933bfd84957d"
 
 [[files]]
 file = "kubejs/server_scripts/create_storage.js"
@@ -94,8 +174,20 @@ file = "kubejs/server_scripts/unify_dough.js"
 hash = "19380c2cf11759ec0d6c16cc2b390e544a312926df42133f1d55d270eafdb089"
 
 [[files]]
+file = "kubejs/server_scripts/unify_pearls.js"
+hash = "5bcff081359164aa69bd5a0e1f6bddabba71f3c7cb64f055e1798a1957ef9942"
+
+[[files]]
 file = "kubejs/server_scripts/unusual_furniture.js"
 hash = "4568cd2ace2d05418956a0b4b89c94cc82ed93305b33d5c8ab86f0644d46395c"
+
+[[files]]
+file = "kubejs/startup_scripts/abyssal_decor.js"
+hash = "8edba34df8e7eb9cc710c04201bed23c43c31a8e8122d2370757f19b148a6628"
+
+[[files]]
+file = "kubejs/startup_scripts/unify_pearls.js"
+hash = "7746c338d74f8c29596afde5628fcd729c0b918ff74520416ee1d4de3dc274b0"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"
