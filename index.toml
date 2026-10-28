@@ -26,14 +26,6 @@ file = "config/serilum/configurabledespawntimer.json"
 hash = "90e15750c86b02abca71dbf515910c1adccc0309fc47d90eb73e696c9a299000"
 
 [[files]]
-file = "kubejs/assets/bits_n_bobs/lang/en_us.json"
-hash = "c41f8c184494d47b753ad06512804cdaa65fceb84d2ef8e028f830e9a8c6eefe"
-
-[[files]]
-file = "kubejs/assets/create/lang/en_us.json"
-hash = "9511b3c06e6f7e4938d667cbc9bcddec87a38067d95a548d8d69294e827e6fee"
-
-[[files]]
 file = "kubejs/assets/create_cola_factory/lang/en_us.json"
 hash = "e11569b7b4c2ea941978988bfc0ac6ea1ef29b17311113b5ff06d5f74b3db55d"
 
@@ -84,14 +76,6 @@ hash = "32b1f6b142b42df43ce37bbfa9feae1c884df17d4aaef87cad06d51867043c5d"
 [[files]]
 file = "kubejs/assets/create_cola_factory/textures/item/halffullcocacolazeroglassbottle.png"
 hash = "bacc7b6198cd82c8142527a351f6cacdd3e9379c291d93a0229b9c5e33b819b2"
-
-[[files]]
-file = "kubejs/assets/createdeco/lang/en_us.json"
-hash = "b0b18c5ca740731d75fb9b8eb25defd48a352920a4a8d214ce23037fed21c11a"
-
-[[files]]
-file = "kubejs/assets/fxntstorage/lang/en_us.json"
-hash = "d9e2e5ab7564921e0f332750b0b5d6e812dc5bf0e9e18530c053f11c2b17f128"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
@@ -162,10 +146,6 @@ file = "kubejs/client_scripts/unify_pearls.js"
 hash = "20d4bd88ed08293d3d6fc931c762f8d062dba923ee901db2e18ab542fcc7e412"
 
 [[files]]
-file = "kubejs/client_scripts/unify_steel.js"
-hash = "8941cbc5701ca60ae05d1655932ddc551b9809bdb052eba9f8bf426593a3d971"
-
-[[files]]
 file = "kubejs/client_scripts/unusual_furniture.js"
 hash = "a72a2ddf142bb9fd0fb58056e4239717fc6bbefc75ab51763bcd7c4e799824fc"
 
@@ -207,7 +187,7 @@ hash = "72ab88796f47de60376c8dfe9ab775b0ccb2f00ed581a21e95bba5113f4a81c5"
 
 [[files]]
 file = "kubejs/server_scripts/item_swaps.js"
-hash = "bef2e7c8dd5558a7ac2c96f5597157d4589518333db42082157a2b09122e248c"
+hash = "7275d7aa6cf9005a7db3c59f326767cf772650736f2a32c1e19ceb770fd5fb40"
 
 [[files]]
 file = "kubejs/server_scripts/unify_abyssal_metals.js"
@@ -220,10 +200,6 @@ hash = "c69f336a7dced3332e610c8752ac6d354fe895959dfbe2e604eb16212dfe0334"
 [[files]]
 file = "kubejs/server_scripts/unify_dough.js"
 hash = "19380c2cf11759ec0d6c16cc2b390e544a312926df42133f1d55d270eafdb089"
-
-[[files]]
-file = "kubejs/server_scripts/unify_steel.js"
-hash = "4006f7a4978090070ec6c9bb814f7b1e99b2c1b1c8ff7e5df6b5c631af2ac465"
 
 [[files]]
 file = "kubejs/server_scripts/unusual_furniture.js"
@@ -244,10 +220,6 @@ hash = "1f132235f768f7591f3367891676d134e7361bccd9f969a04685088ce1fec992"
 [[files]]
 file = "kubejs/startup_scripts/unify_pearls.js"
 hash = "04f30dacc8dbcaefe5f535573b0eb0a7fb2626d2dc01eda340ba007b18fabdac"
-
-[[files]]
-file = "kubejs/startup_scripts/unify_steel.js"
-hash = "433623df8fabf1ce6da27315a10599f21f99c28177b005f31ac14d649a849536"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"

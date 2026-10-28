@@ -22,13 +22,6 @@ const ITEM_SWAPS = {
 	'abyssal_decor:raw_seabrass_block': 'create:raw_zinc_block',
 	'abyssal_decor:seabrass_ore': 'create:zinc_ore',
 
-	// Create Deco's Industrial Iron is Steel now (unify_steel.js)
-	'createdeco:industrial_iron_ingot': 'cgs:steel_ingot',
-	'createdeco:industrial_iron_nugget': 'cgs:steel_nugget',
-	'createdeco:industrial_iron_sheet': 'cgs:steel_sheet',
-	'createdeco:industrial_iron_window': 'create:industrial_iron_window',
-	'createdeco:industrial_iron_window_pane': 'create:industrial_iron_window_pane',
-
 	// Cola Factory's Flat Soda stage is gone (cola_factory.js)
 	'create_cola_factory:flat_coca_cola_bucket': 'create_cola_factory:coca_cola_syrup_bucket',
 	'create_cola_factory:flat_coca_cola_zero_bucket': 'create_cola_factory:coca_cola_syrup_zero_bucket'
