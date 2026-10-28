@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "abyssal_decor:blocks/telescope_top",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "furniture:telescope"
+        }
+      ]
+    }
+  ]
+}
