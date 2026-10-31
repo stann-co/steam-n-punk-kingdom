@@ -79,7 +79,7 @@ hash = "bacc7b6198cd82c8142527a351f6cacdd3e9379c291d93a0229b9c5e33b819b2"
 
 [[files]]
 file = "kubejs/assets/minecraft/texts/splashes.txt"
-hash = "dddf5a650e87492109b6ae9459a4f55d2a67c22fef60619994ab8746115ecb45"
+hash = "d27eb9df63722b8238fdc7aadfdd142366e60f544644e80d1c1203e9f1b380b2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/gui/title/background/panorama_0.png"
@@ -479,6 +479,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "725d4a1ebee06f9cc2990b2a8b6760fbdf6348e1dd8f236f6657f2c8431c32e6"
+metafile = true
+
+[[files]]
+file = "mods/halloween-falling-leaves.pw.toml"
+hash = "8c1ced7beffd645acb5022471eb5d0d093ca71d5909806f8dc78cbf03db1e5c5"
 metafile = true
 
 [[files]]
