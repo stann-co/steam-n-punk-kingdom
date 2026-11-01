@@ -162,6 +162,18 @@ file = "kubejs/data/abyssal_decor/neoforge/biome_modifier/seabrass_ore_biome_mod
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
+file = "kubejs/data/curios/curios/slots/back.json"
+hash = "61eb1e152788aa3dcd30094b1084fba3329826dcdd4396ca81e0801a0d090360"
+
+[[files]]
+file = "kubejs/data/curios/tags/item/back.json"
+hash = "89243ee2aa68f6bd4392def2d4815f0e99d254c2374e06b4939d2c20cbd360f2"
+
+[[files]]
+file = "kubejs/data/curios/tags/item/head.json"
+hash = "d74cf34063e6bccf9351e3ee53a644067572f5032e0835b8b2c885e74237720c"
+
+[[files]]
 file = "kubejs/data/hybrid_aquatic/loot_table/blocks/black_pearl_block.json"
 hash = "9fe03a03523e9a67a3792dc6f4f01a8c37a3b3935da353336b67723eabad7981"
 
@@ -212,6 +224,10 @@ hash = "8edba34df8e7eb9cc710c04201bed23c43c31a8e8122d2370757f19b148a6628"
 [[files]]
 file = "kubejs/startup_scripts/cola_factory.js"
 hash = "56ca30443d7adee82e76569bc1297c925c06fd34a438eb4aea4bda7ff082bbe8"
+
+[[files]]
+file = "kubejs/startup_scripts/curios_goggles.js"
+hash = "f4afe38e6664eb1ac6f5db76929e1fe2f529500c256e1e571018d64ffbb24aea"
 
 [[files]]
 file = "kubejs/startup_scripts/unify_abyssal_metals.js"
@@ -269,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/c2me.pw.toml"
 hash = "48965f0e10a0a6609493ab3c1c9c15a4fb0d513d4921057319fb1569356ceb7e"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
 metafile = true
 
 [[files]]
@@ -407,6 +428,10 @@ hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
 metafile = true
 
 [[files]]
+file = "mods/curios-visuals-1.0.0.jar"
+hash = "5b65441e3a0796629fc734eeba4076c4906a210f748159c88042667abc37e638"
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -429,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]

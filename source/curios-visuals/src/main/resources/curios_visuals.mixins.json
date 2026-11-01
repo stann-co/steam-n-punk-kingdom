@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "co.stann.curiosvisuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "BacktankItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
