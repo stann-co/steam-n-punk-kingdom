@@ -162,10 +162,6 @@ file = "kubejs/data/abyssal_decor/neoforge/biome_modifier/seabrass_ore_biome_mod
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
-file = "kubejs/data/curios/curios/slots/back.json"
-hash = "61eb1e152788aa3dcd30094b1084fba3329826dcdd4396ca81e0801a0d090360"
-
-[[files]]
 file = "kubejs/data/curios/tags/item/back.json"
 hash = "89243ee2aa68f6bd4392def2d4815f0e99d254c2374e06b4939d2c20cbd360f2"
 
@@ -227,7 +223,7 @@ hash = "56ca30443d7adee82e76569bc1297c925c06fd34a438eb4aea4bda7ff082bbe8"
 
 [[files]]
 file = "kubejs/startup_scripts/curios_goggles.js"
-hash = "f4afe38e6664eb1ac6f5db76929e1fe2f529500c256e1e571018d64ffbb24aea"
+hash = "1a4baa52201702b819d2a2d4512f4ad8f6c14d2f61ee5a4154879facb7c40581"
 
 [[files]]
 file = "kubejs/startup_scripts/unify_abyssal_metals.js"
