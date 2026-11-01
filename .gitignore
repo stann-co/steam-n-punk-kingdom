@@ -4,3 +4,7 @@
 
 # Local test exports (packwiz modrinth export)
 *.mrpack
+
+# Gradle output from mods built in source/
+source/*/build/
+source/*/.gradle/

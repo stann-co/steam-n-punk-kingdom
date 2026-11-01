@@ -55,7 +55,7 @@ key_key.clientsort.op.sort:key.mouse.middle:
 key_key.clientsort.op.stackFill:key.keyboard.unknown:
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown:
 key_key.clientsort.op.transfer:key.keyboard.unknown:
-key_accessories.key.open_accessories_screen:key.keyboard.h:
+key_key.curios.open.desc:key.keyboard.h:
 key_key.jetpack.toggle_active.description:key.keyboard.unknown:
 key_key.jetpack.toggle_hover.description:key.keyboard.unknown:
 key_key.jetpack.activate_elytra.description:key.keyboard.unknown:

@@ -1,0 +1,29 @@
+// Draws wearables on the player when they're in a Curios slot.
+// Build with "gradle jar" using JDK 21, copy build/libs/curios-visuals-1.0.0.jar to mods/,
+// then run packwiz refresh. The versions below match the ones in the pack.
+plugins {
+    id 'java'
+    id 'net.neoforged.moddev' version '2.0.148'
+}
+
+version = '1.0.0'
+base.archivesName = 'curios-visuals'
+
+java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+neoForge {
+    version = '21.1.264'
+}
+
+repositories {
+    maven {
+        url = 'https://api.modrinth.com/maven'
+        content { includeGroup 'maven.modrinth' }
+    }
+}
+
+dependencies {
+    compileOnly 'maven.modrinth:create:UjX6dr61'
+    compileOnly 'maven.modrinth:curios:yohfFbgD'
+    compileOnly 'maven.modrinth:geckolib:Grwn5rUB'
+}

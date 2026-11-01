@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "curios_visuals"
+version = "1.0.0"
+displayName = "Curios Visuals"
+description = "Draws Steam n Punk Kingdom's wearables on the player when they are in a Curios slot."
+
+[[mixins]]
+config = "curios_visuals.mixins.json"
+
+[[dependencies.curios_visuals]]
+modId = "curios"
+type = "required"
+versionRange = "[9.5,)"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.curios_visuals]]
+modId = "create"
+type = "required"
+versionRange = "[6.0,)"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.curios_visuals]]
+modId = "geckolib"
+type = "required"
+versionRange = "[4.9,)"
+ordering = "AFTER"
+side = "CLIENT"
