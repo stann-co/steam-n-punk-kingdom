@@ -482,11 +482,6 @@ hash = "725d4a1ebee06f9cc2990b2a8b6760fbdf6348e1dd8f236f6657f2c8431c32e6"
 metafile = true
 
 [[files]]
-file = "mods/halloween-falling-leaves.pw.toml"
-hash = "8c1ced7beffd645acb5022471eb5d0d093ca71d5909806f8dc78cbf03db1e5c5"
-metafile = true
-
-[[files]]
 file = "mods/hybrid-api.pw.toml"
 hash = "fdc55b26800127cafd9a88b2bd03615fc49ced589cffb036145d98c029af437f"
 metafile = true
@@ -657,6 +652,10 @@ hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
+file = "mods/seasonal-mod-loader-1.0.0.jar"
+hash = "bdcbe262db07d180f5121314d945bf6a5986500ba6123ece7a17ecdffcb3f001"
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
@@ -754,6 +753,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/simple-grass-flowers.pw.toml"
 hash = "6576e0f2a199e626872973b61fa925d6055c90442901e88e705815d1ef48888d"
+metafile = true
+
+[[files]]
+file = "seasonal/halloween_10-20_11-03/halloween-falling-leaves.pw.toml"
+hash = "8c1ced7beffd645acb5022471eb5d0d093ca71d5909806f8dc78cbf03db1e5c5"
 metafile = true
 
 [[files]]
