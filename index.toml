@@ -10,7 +10,7 @@ hash = "29b6080502671157734c738735092612437c319caedc892be38b8038df65e37e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "823b6c5a852f82191e54637dcc67eacb80fdeb1742eb7b733d9fb68f4828d22a"
+hash = "6c00894b40cafc9c1e15f8dd9eb7f65239b24d593e11ebb60b32dd71f7e3d091"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -227,11 +227,6 @@ hash = "20dfb8bc6554a13dc19b606224923c3167ec1b8bb37f6c8bfe812e07980dc2c4"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "2017362c793d95887d38b3353abb7c77f212175e82ed848296575ea0e466b7d7"
-metafile = true
-
-[[files]]
 file = "mods/advanced-backups.pw.toml"
 hash = "6ff0459e53f8bc6d77862c242f96b321db7d99cc27398ced9cf7c94a39814ad0"
 metafile = true
@@ -412,6 +407,11 @@ hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
 file = "mods/custom-player-models.pw.toml"
 hash = "eb782f7993af2d30ddab28203fbc9d520d09dd53e36dd624734bfc7e86b34127"
 metafile = true
@@ -587,11 +587,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/mousetweaks-x-accessories-fix.pw.toml"
-hash = "e5e98cd5b63adeec29a60e22ea5699c28118daef8e69fce99dd7dbe150c48f3b"
-metafile = true
-
-[[files]]
 file = "mods/moyai.pw.toml"
 hash = "373a12baaac68d7efc52dd53c9a9a7bf962ce62bfad29875a85d2c1d456e7cf1"
 metafile = true
@@ -614,11 +609,6 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "8cf9452197ae7deae53c504a98406494cbd2468055bff5d9d0d981c50eb09748"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "6514f98b34602b789fc2dbcafe7a67468d1c94d74965a0142a79b7ab23628a9a"
 metafile = true
 
 [[files]]
