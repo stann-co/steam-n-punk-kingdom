@@ -1,0 +1,10 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    { "item": "create_cola_factory:coca_cola_syrup_zero_bucket" }
+  ],
+  "results": [
+    { "id": "minecraft:bucket" },
+    { "amount": 1000, "id": "create_cola_factory:coca_cola_syrup_zero" }
+  ]
+}

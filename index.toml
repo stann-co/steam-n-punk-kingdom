@@ -162,6 +162,26 @@ file = "kubejs/data/abyssal_decor/neoforge/biome_modifier/seabrass_ore_biome_mod
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
+file = "kubejs/data/bellsandwhistles/recipe/metro/metro_window.json"
+hash = "2e5667b6a1cd5002ca5cbe3dc6903611106dcf27f3f9f382f27ca1a0a68de5ad"
+
+[[files]]
+file = "kubejs/data/copycats/physics_block_properties/copycat_catwalk.json"
+hash = "4f66ae782b342367d6bd66ead8522aa1a8bece8bb5970d8f4bd400eb6bda1732"
+
+[[files]]
+file = "kubejs/data/copycats/tags/block/copycat_catwalk.json"
+hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
+
+[[files]]
+file = "kubejs/data/create_cola_factory/recipe/coca_cola_syrup_zero_emptying.json"
+hash = "f6ac204cc31c72c343d38f1115899787706c01addc123a03cd0496db9693bce0"
+
+[[files]]
+file = "kubejs/data/createdeco/recipe/placard.json"
+hash = "0aa60938e6a22e4d78fbc08e273cf906ba5245756b2c2c61d519b30a3ba6ed42"
+
+[[files]]
 file = "kubejs/data/curios/tags/item/back.json"
 hash = "89243ee2aa68f6bd4392def2d4815f0e99d254c2374e06b4939d2c20cbd360f2"
 
@@ -170,12 +190,24 @@ file = "kubejs/data/curios/tags/item/head.json"
 hash = "d74cf34063e6bccf9351e3ee53a644067572f5032e0835b8b2c885e74237720c"
 
 [[files]]
+file = "kubejs/data/endersdelight/recipe/chorus_pie_slice.json"
+hash = "a03e277b40163e19e365126c4bb9a2d200d06f1606d0652a540b526fb12cf4d6"
+
+[[files]]
 file = "kubejs/data/hybrid_aquatic/loot_table/blocks/black_pearl_block.json"
 hash = "9fe03a03523e9a67a3792dc6f4f01a8c37a3b3935da353336b67723eabad7981"
 
 [[files]]
 file = "kubejs/data/hybrid_aquatic/loot_table/blocks/pearl_block.json"
 hash = "5ec1bf73172e863325c0649189550faf7937715221eefb9653122fe8913d62f4"
+
+[[files]]
+file = "kubejs/data/minecraft/advancement/give_quest_trader_trade.json"
+hash = "9ca0da91d1d3b4a9099d1d4ae8c7ceeaf6c871b101cc26125150179f62f500b1"
+
+[[files]]
+file = "kubejs/data/minecraft/advancement/wander_add_map.json"
+hash = "c57ab6bb6fb8d5659e33a3775af423168a5535ad7abf64cb609c546828a91b44"
 
 [[files]]
 file = "kubejs/server_scripts/abyssal_decor.js"
@@ -187,7 +219,7 @@ hash = "7f4ea154725ac833bbfe81834f01487a1075388baed8177f395dd9e9bc770cb5"
 
 [[files]]
 file = "kubejs/server_scripts/cola_factory.js"
-hash = "2bf8fef5a1896d14d35326413cf9ce0175ccbe2c23c17aacb5234cbd98364cd6"
+hash = "ce96ab5fbce737cb7b824a96541639d04f972a3b1041d6cd5d82bdfa7e72c617"
 
 [[files]]
 file = "kubejs/server_scripts/create_storage.js"
@@ -710,6 +742,10 @@ metafile = true
 file = "mods/strut-your-stuff.pw.toml"
 hash = "aa89e067824ca42d818a81a6d02ce5296ce662d834c35dd2ff0d81189d3bc3f9"
 metafile = true
+
+[[files]]
+file = "mods/tabletop-1.0.0.jar"
+hash = "3edced8b71ed4e10ad8e584d57444e01a78ba6983147715190407f27d377672b"
 
 [[files]]
 file = "mods/tectonic.pw.toml"
