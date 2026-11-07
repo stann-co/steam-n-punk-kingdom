@@ -27,6 +27,7 @@ public class CuriosVisuals {
             register("aeronautics:aviators_goggles", () -> new ArmorHeadCurioRenderer(
                     ResourceLocation.parse("aeronautics:textures/models/armor/aviators_goggles_layer_1.png")));
             PLUSHIES.forEach(name -> register("hybrid_aquatic:" + name + "_plushie", SkullHeadCurioRenderer::new));
+            HiddenKeybinds.apply();
         });
     }
 

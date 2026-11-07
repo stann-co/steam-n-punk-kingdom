@@ -4,9 +4,9 @@ license = "MIT"
 
 [[mods]]
 modId = "curios_visuals"
-version = "1.0.0"
+version = "1.1.0"
 displayName = "Curios Visuals"
-description = "Draws Steam n Punk Kingdom's wearables on the player when they are in a Curios slot."
+description = "Steam n Punk Kingdom client tweaks: draws wearables in Curios slots and hides key binds for disabled features."
 
 [[mixins]]
 config = "curios_visuals.mixins.json"

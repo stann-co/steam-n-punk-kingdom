@@ -456,8 +456,8 @@ hash = "b065a8cb99a887abb2c434b84e3fa84f1e62cf500b1b9f50c86a4b48e4bdcc4f"
 metafile = true
 
 [[files]]
-file = "mods/curios-visuals-1.0.0.jar"
-hash = "5b65441e3a0796629fc734eeba4076c4906a210f748159c88042667abc37e638"
+file = "mods/curios-visuals-1.1.0.jar"
+hash = "722773ba401c63ff590e6f1f793a36312615db7fe5d4ce5e3139f197a7684571"
 
 [[files]]
 file = "mods/curios.pw.toml"
