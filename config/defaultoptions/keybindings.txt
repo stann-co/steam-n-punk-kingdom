@@ -55,10 +55,13 @@ key_key.clientsort.op.sort:key.mouse.middle:
 key_key.clientsort.op.stackFill:key.keyboard.unknown:
 key_key.clientsort.op.matchTransfer:key.keyboard.unknown:
 key_key.clientsort.op.transfer:key.keyboard.unknown:
-key_key.curios.open.desc:key.keyboard.h:
-key_key.jetpack.toggle_active.description:key.keyboard.unknown:
-key_key.jetpack.toggle_hover.description:key.keyboard.unknown:
+key_key.curios.open.desc:key.keyboard.unknown:
+key_key.jetpack.toggle_active.description:key.keyboard.g:
+key_key.jetpack.toggle_hover.description:key.keyboard.h:
 key_key.jetpack.activate_elytra.description:key.keyboard.unknown:
+key_hotKey.fxntstorage.toggle_jetpack:key.keyboard.unknown:
+key_hotKey.fxntstorage.toggle_jetpack_hover:key.keyboard.unknown:
+key_hotKey.fxntstorage.oremine_any_block:key.keyboard.unknown:
 key_keyinfo.copycats.fill_copycat:key.keyboard.left.alt:
 key_key.jei.toggleOverlay:key.keyboard.o:CONTROL
 key_key.jei.focusSearch:key.keyboard.f:CONTROL
@@ -98,7 +101,7 @@ key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.closeRecipeGui:key.keyboard.escape:
 key_key.jei.copy.recipe.id:key.keyboard.unknown:
 key_key.kubejs.kubedex:key.keyboard.k:
-key_key.cpm.gestureMenu:key.keyboard.g:
+key_key.cpm.gestureMenu:key.keyboard.unknown:
 key_key.cpm.renderToggle:key.keyboard.unknown:
 key_key.cpm.qa_1:key.keyboard.unknown:
 key_key.cpm.qa_2:key.keyboard.unknown:

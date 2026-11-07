@@ -10,7 +10,7 @@ hash = "29b6080502671157734c738735092612437c319caedc892be38b8038df65e37e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "6c00894b40cafc9c1e15f8dd9eb7f65239b24d593e11ebb60b32dd71f7e3d091"
+hash = "fa6977539413eaac83ea389501df73112bf94cc8333ecaa070835b0fc6befe92"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
