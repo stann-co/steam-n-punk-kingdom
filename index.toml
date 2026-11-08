@@ -146,6 +146,10 @@ file = "kubejs/client_scripts/unify_pearls.js"
 hash = "20d4bd88ed08293d3d6fc931c762f8d062dba923ee901db2e18ab542fcc7e412"
 
 [[files]]
+file = "kubejs/client_scripts/unify_sulfur.js"
+hash = "e180426168dc04a50fd8b372ab4af4a1845b2e530d7ce68d936cfc1c2fcb259d"
+
+[[files]]
 file = "kubejs/client_scripts/unusual_furniture.js"
 hash = "a72a2ddf142bb9fd0fb58056e4239717fc6bbefc75ab51763bcd7c4e799824fc"
 
@@ -166,12 +170,20 @@ file = "kubejs/data/bellsandwhistles/recipe/metro/metro_window.json"
 hash = "2e5667b6a1cd5002ca5cbe3dc6903611106dcf27f3f9f382f27ca1a0a68de5ad"
 
 [[files]]
+file = "kubejs/data/cgs/loot_table/blocks/sulfur_ore.json"
+hash = "bc6638df7374d06108175ec8e9e9d260a59b9c5cd834410626b1349b623e76d4"
+
+[[files]]
 file = "kubejs/data/copycats/physics_block_properties/copycat_catwalk.json"
 hash = "4f66ae782b342367d6bd66ead8522aa1a8bece8bb5970d8f4bd400eb6bda1732"
 
 [[files]]
 file = "kubejs/data/copycats/tags/block/copycat_catwalk.json"
 hash = "f74498097708215ee46031db7467ce3abed880ed8188eff156e81993d9787e31"
+
+[[files]]
+file = "kubejs/data/create/recipe/crushing/magma_block.json"
+hash = "b08bd7e30544ea5d8bc80ff32501335becd5848269ce5157d59297e852927b2c"
 
 [[files]]
 file = "kubejs/data/create_cola_factory/recipe/coca_cola_syrup_zero_emptying.json"
@@ -227,7 +239,7 @@ hash = "72ab88796f47de60376c8dfe9ab775b0ccb2f00ed581a21e95bba5113f4a81c5"
 
 [[files]]
 file = "kubejs/server_scripts/item_swaps.js"
-hash = "7275d7aa6cf9005a7db3c59f326767cf772650736f2a32c1e19ceb770fd5fb40"
+hash = "67dce0408761fdacaafb039aafe5edc50935850bce458e6998108a255259f528"
 
 [[files]]
 file = "kubejs/server_scripts/unify_abyssal_metals.js"
@@ -240,6 +252,10 @@ hash = "c69f336a7dced3332e610c8752ac6d354fe895959dfbe2e604eb16212dfe0334"
 [[files]]
 file = "kubejs/server_scripts/unify_dough.js"
 hash = "19380c2cf11759ec0d6c16cc2b390e544a312926df42133f1d55d270eafdb089"
+
+[[files]]
+file = "kubejs/server_scripts/unify_sulfur.js"
+hash = "a96acd222e8f842656d74fd505a81d069ea48b59bb51ac14a0153af659c5fcc8"
 
 [[files]]
 file = "kubejs/server_scripts/unusual_furniture.js"
@@ -264,6 +280,10 @@ hash = "1f132235f768f7591f3367891676d134e7361bccd9f969a04685088ce1fec992"
 [[files]]
 file = "kubejs/startup_scripts/unify_pearls.js"
 hash = "04f30dacc8dbcaefe5f535573b0eb0a7fb2626d2dc01eda340ba007b18fabdac"
+
+[[files]]
+file = "kubejs/startup_scripts/unify_sulfur.js"
+hash = "9a667e0545c969ee7f733080e52c29fe60aa8162ab3f2238fed9a70be7dd5ee5"
 
 [[files]]
 file = "mods/abyssal-decor.pw.toml"

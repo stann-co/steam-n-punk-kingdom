@@ -22,6 +22,9 @@ const ITEM_SWAPS = {
 	'abyssal_decor:raw_seabrass_block': 'create:raw_zinc_block',
 	'abyssal_decor:seabrass_ore': 'create:zinc_ore',
 
+	// Hybrid Aquatic's sulfur replaces Create Gunsmithing's (unify_sulfur.js)
+	'cgs:sulfur': 'hybrid_aquatic:sulfur',
+
 	// Cola Factory's Flat Soda stage is gone (cola_factory.js)
 	'create_cola_factory:flat_coca_cola_bucket': 'create_cola_factory:coca_cola_syrup_bucket',
 	'create_cola_factory:flat_coca_cola_zero_bucket': 'create_cola_factory:coca_cola_syrup_zero_bucket'
